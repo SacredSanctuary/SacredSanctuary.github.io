@@ -1,0 +1,149 @@
+/*		GLOBAL STYLES				-------------------------------------------------	*/
+body {
+  padding-bottom: 40px;
+  color: #5a5a5a;
+}
+h1,
+h2,
+h3,
+h4 {
+  color: #0a192e;
+  font-family: 'EB Garamond', serif;
+  font-weight: 400;
+}
+.thankyou {
+  text-align: center;
+}
+.logo {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 80px;
+}
+.logo img {
+  max-width: 100%;
+}
+/*		CUSTOMIZE THE NAVBAR		-------------------------------------------------	*/
+body .navbar-wrapper {
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 20;
+}
+body .navbar-wrapper > .container {
+  padding-right: 0;
+  padding-left: 0;
+}
+body .navbar-wrapper.affix-top {
+  position: relative;
+  top: -60px;
+}
+body .navbar-wrapper .navbar {
+  position: absolute;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  box-shadow: 0px 5px 7px #999;
+}
+body .navbar-wrapper .navbar a:hover {
+  color: white;
+  font-weight: bold;
+  text-shadow: 0px 0px 8px #624827;
+}
+body .navbar-wrapper .navbar .active a:hover {
+  cursor: default;
+  font-weight: normal;
+  text-shadow: none;
+}
+body .navbar-wrapper .navbar .container {
+  width: auto;
+}
+/*		CUSTOMIZE THE CAROUSEL		--------------------------------------------------	*/
+.carousel {
+  height: 500px;
+  margin-top: 20px;
+  box-shadow: 0px 5px 8px #5a5a5a;
+}
+.carousel .carousel-caption {
+  z-index: 10;
+}
+.carousel .item {
+  height: 500px;
+  background-color: #777;
+}
+.carousel .item > img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  min-height: 500px;
+}
+.carousel .item h1 {
+  padding: 10px;
+  border-radius: 50px;
+  background-color: rgba(10, 25, 46, 0.2);
+  font-size: 24px;
+  color: white;
+  text-shadow: 0px 0px 5px #624827;
+}
+/*		MARKETING CONTENT			--------------------------------------------------	*/
+.marketing .col-lg-4 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+.marketing .col-lg-4 p {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+.marketing hr {
+  margin: 60px 0;
+  border-color: #624827;
+}
+.marketing img {
+  border-radius: 10px;
+}
+.marketing h2 {
+  line-height: 1;
+}
+.marketing h2::first-letter {
+  font-size: 48px;
+}
+.marketing h4 {
+  font-size: 16px;
+}
+.marketing p:first-of-type {
+  font-size: 16px;
+}
+/*		RESPONSIVE CSS				--------------------------------------------------	*/
+@media (min-width: 768px) {
+  .navbar-wrapper .container {
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  .navbar-wrapper .navbar {
+    padding-right: 0;
+    padding-left: 0;
+    border-radius: 4px;
+  }
+  .carousel-caption p {
+    margin-bottom: 20px;
+    font-size: 21px;
+    line-height: 1.4;
+  }
+  .marketing h2 {
+    font-size: 48px;
+  }
+  .marketing h2::first-letter {
+    font-size: 64px;
+  }
+}
+@media (min-width: 1200px) {
+  .marketing h2 {
+    margin-top: 80px;
+    font-size: 64px;
+  }
+  .marketing h2::first-letter {
+    font-size: 84px;
+  }
+}

@@ -1,0 +1,6 @@
+name: Sacred Sanctuary
+markdown: redcarpet
+highlighter: null
+
+exclude:    ['*.less']
+baseurl:    /

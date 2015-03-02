@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	{% include head.html %}
+</head>
+
+<body class="{{ page.page }}">
+
+<!--[if IE 8]>     <body class="ie ie8 lte9 lte8"> <![endif]-->
+<!--[if IE 9]>     <body class="ie ie9 lte9"> <![endif]-->
+<!--[if gt IE 9]>  <body class="ie"><![endif]-->
+<!--[if !IE]><!--> <body class=" "> <!--<![endif]-->
+
+<div class="container logo">
+	<div class="row">
+		<div class="col-md-2 col-md-offset-5">
+			<a href="#"><img src="/public/img/sacred-logo.png" alt="Sarcred Sanctuary Logo" /></a>
+		</div>
+	</div>
+</div>
+
+{% include nav.html %}
+
+{{ content }}
+
+{% include js.html %}
+
+</body>
+</html>
+
