@@ -101,156 +101,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/public\/css\/carousel.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/public\/css\/carousel.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/public\/css\/post.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/public\/css\/post.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/public\/img\/glass-logo.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 144517,
-		"inputAbbreviatedPath": "\/_site\/public\/img\/glass-logo.jpg",
-		"outputAbbreviatedPath": "\/_site\/public\/img\/glass-logo.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/public\/img\/sacred-logo.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 332252,
-		"inputAbbreviatedPath": "\/_site\/public\/img\/sacred-logo.png",
-		"outputAbbreviatedPath": "\/_site\/public\/img\/sacred-logo.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/public\/img\/slide1.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 267954,
-		"inputAbbreviatedPath": "\/_site\/public\/img\/slide1.jpg",
-		"outputAbbreviatedPath": "\/_site\/public\/img\/slide1.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/public\/img\/slide2.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 369331,
-		"inputAbbreviatedPath": "\/_site\/public\/img\/slide2.jpg",
-		"outputAbbreviatedPath": "\/_site\/public\/img\/slide2.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/public\/img\/slide3.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 211472,
-		"inputAbbreviatedPath": "\/_site\/public\/img\/slide3.jpg",
-		"outputAbbreviatedPath": "\/_site\/public\/img\/slide3.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/public\/img\/slide4.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 462764,
-		"inputAbbreviatedPath": "\/_site\/public\/img\/slide4.jpg",
-		"outputAbbreviatedPath": "\/_site\/public\/img\/slide4.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/public\/img\/slide5.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 270200,
-		"inputAbbreviatedPath": "\/_site\/public\/img\/slide5.jpg",
-		"outputAbbreviatedPath": "\/_site\/public\/img\/slide5.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/public\/img\/slide6.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 270200,
-		"inputAbbreviatedPath": "\/_site\/public\/img\/slide6.jpg",
-		"outputAbbreviatedPath": "\/_site\/public\/img\/slide6.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/public\/js\/app.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/public\/js\/app.js",
-		"outputAbbreviatedPath": "\/_site\/public\/js\/min\/app-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/public\/js\/ie-emulation-modes-warning.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/public\/js\/ie-emulation-modes-warning.js",
-		"outputAbbreviatedPath": "\/_site\/public\/js\/min\/ie-emulation-modes-warning-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/public\/js\/ie10-viewport-bug-workaround.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/public\/js\/ie10-viewport-bug-workaround.js",
-		"outputAbbreviatedPath": "\/_site\/public\/js\/min\/ie10-viewport-bug-workaround-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/public\/js\/min\/app-min.js": {
-		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/public\/js\/min\/app-min.js",
-		"outputAbbreviatedPath": "\/_site\/public\/js\/min\/min\/app-min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
 	"\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -447,6 +297,18 @@
 		"strictImports": 0,
 		"strictMath": 0,
 		"strictUnits": 0
+		},
+	"\/README.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/README.md",
+		"outputAbbreviatedPath": "\/README.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		}
 	},
 "hooks": [
