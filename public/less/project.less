@@ -2,7 +2,9 @@
 @ss_gold: #624827;
 @ss_grey: #5a5a5a;
 
+
 /*		GLOBAL STYLES				-------------------------------------------------	*/
+
 body {
 	padding-bottom: 40px;
 	color: @ss_grey;
@@ -14,6 +16,10 @@ h1, h2, h3, h4 {
 	font-weight: 400;
 }
 
+a {
+	color: @ss_gold;
+}
+
 .thankyou {
 	text-align: center;
 }
@@ -23,11 +29,85 @@ h1, h2, h3, h4 {
 	margin-top: 20px;
 	margin-bottom: 80px;
 	img {
+		height: 155px;
 		max-width: 100%;
+		opacity: 1.0,
 	}
 }
 
+#subnav {
+	background-color: white;
+	&.affix-top {
+		position: absolute;
+		margin-top: 80px;
+	}
+	&.affix {
+		top: 100px;
+	}
+	h3 {
+		margin: 10px;
+	}
+	a {
+		padding: 5px 10px;
+		&:hover {
+			color: @ss_blue;
+		}
+	}
+	li:first-child a {
+		padding: 0px;
+	}
+	.active a {
+		background-color: @ss_blue;
+		&:hover {
+			color: white;
+			cursor: default;
+		}
+	}
+}
+
+/*		MARKETING CONTENT			--------------------------------------------------	*/
+
+.marketing {
+	.col-lg-4 {
+		margin-bottom: 20px;
+		text-align: center;
+		p {
+			margin-right: 10px;
+			margin-left: 10px;
+		}
+	}
+	hr {
+		margin: 60px 0;
+		border-color: @ss_gold;
+	}
+	.spacer {
+		display: block;
+		height: 20px;
+		margin: 60px 0;
+	}
+	img {
+		border-radius: 10px;
+	}
+	h1,h2 {
+		line-height: 1;
+		&::first-letter {
+			font-size: 48px;
+		}
+	}
+	h4 {
+		font-size: 16px;
+	}
+	p {
+		font-size: 16px;
+	}
+	p:first-of-type {
+// 		font-size: 16px;
+	}
+}
+
+
 /*		CUSTOMIZE THE NAVBAR		-------------------------------------------------	*/
+
 body {
 	.navbar-wrapper {
 		top: 0;
@@ -50,9 +130,11 @@ body {
 			border-top-left-radius: 0px;
 			border-top-right-radius: 0px;
 			box-shadow: 0px 5px 7px #999;
+			a {
+				padding: 15px 10px;
+			}
 			a:hover {
 				color: white;
-				font-weight: bold;
 				text-shadow: 0px 0px 8px @ss_gold;
 			}
 			.active a:hover {
@@ -60,78 +142,104 @@ body {
 				font-weight: normal;
 				text-shadow: none;
 			}
-			.container {
-				width: auto;
+			.dropdown {
+				a {
+					&:hover {
+						cursor: pointer;
+					}
+				}
+				.dropdown-menu {
+					.active > a {
+						background-color: @ss_blue;
+					}
+				}
 			}
 		}
 	}
 }
 
 
+/*		PAGE SPECIFIC				--------------------------------------------------	*/
 
-/*		CUSTOMIZE THE CAROUSEL		--------------------------------------------------	*/
-.carousel {
-	height: 500px;
-	margin-top: 20px;
-	box-shadow: 0px 5px 8px @ss_grey;
-	.carousel-caption {
-		z-index: 10;
+.home {
+	.logo img {
+		height: auto;
+		opacity: 0.05;
 	}
-	.item {
+	.carousel {
 		height: 500px;
-		background-color: #777;
-		> img {
-			position: absolute;
-			top: 0;
-			left: 0;
-			min-width: 100%;
-			min-height: 500px;
+		margin-top: 20px;
+		box-shadow: 0px 5px 8px @ss_grey;
+		.carousel-caption {
+			z-index: 10;
 		}
-		h1 {
-			padding: 10px;
-			border-radius: 50px;
-			background-color: rgba(10, 25, 46, 0.2);
-			font-size: 24px;
-			color: white;
-			text-shadow: 0px 0px 5px @ss_gold;
+		.item {
+			height: 500px;
+			background-color: #777;
+			> img {
+				position: absolute;
+				top: 0;
+				left: 0;
+				min-width: 100%;
+				min-height: 500px;
+			}
+			h1 {
+				padding: 10px;
+				border-radius: 50px;
+				background-color: rgba(10, 25, 46, 0.2);
+				font-size: 24px;
+				color: white;
+				text-shadow: 0px 0px 5px @ss_gold;
+			}
 		}
 	}
 }
 
-
-/*		MARKETING CONTENT			--------------------------------------------------	*/
-.marketing {
-	.col-lg-4 {
-		margin-bottom: 20px;
-		text-align: center;
-		p {
-			margin-right: 10px;
-			margin-left: 10px;
-		}
-	}
-	hr {
-		margin: 60px 0;
-		border-color: @ss_gold;
-	}
-	img {
-		border-radius: 10px;
-	}
-	h2 {
-		line-height: 1;
-		&::first-letter {
-			font-size: 48px;
-		}
-	}
-	h4 {
-		font-size: 16px;
-	}
-	p:first-of-type {
-		font-size: 16px;
+.contact-us {
+	#ajaxMap {
+		width: 100%;
+		min-height: 400px;
+		box-shadow: 0px 5px 7px #999;
 	}
 }
 
 
 /*		RESPONSIVE CSS				--------------------------------------------------	*/
+
+@media (max-width: 768px) {
+	.logo {
+		img {
+			height: 100px;
+		}
+	}
+	.carousel {
+		height: 150px;
+		.item {
+			height: 150px;
+			> img {
+				min-height: auto;
+			}
+		}
+	}
+}
+
+@media (max-width: 1023px) {
+	.navbar {
+		font-size: 10px;
+	}
+	.marketing {
+		p {
+			font-size: 14px;
+		}
+	}
+}
+
+@media (min-width: 1024px) {
+	.navbar {
+		font-size: 12px;
+	}
+}
+
 @media (min-width: 768px) {
 
 	.navbar-wrapper {
@@ -153,7 +261,7 @@ body {
 	}
 
 	.marketing {
-		h2 {
+		h1,h2 {
 			font-size: 48px;
 			&::first-letter {
 				font-size: 64px;
@@ -163,9 +271,12 @@ body {
 }
 
 @media (min-width: 1200px) {
+	.navbar {
+		font-size: 14px;
+	}
 	.marketing {
-		h2 {
-			margin-top: 80px;
+		h1,h2 {
+			margin-top: 60px;
 			font-size: 64px;
 			&::first-letter {
 				font-size: 84px;

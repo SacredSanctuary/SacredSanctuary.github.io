@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="">
 <meta name="author" content="">
-<title>Welcome to Jekyll!</title>
+<title>Contact Us - Sacred Sanctuary</title>
 <link rel="icon" href="public/img/favicon.ico">
 <link href='http://fonts.googleapis.com/css?family=EB+Garamond' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" />
@@ -24,7 +24,7 @@
 
 </head>
 
-<body class="" data-spy="scroll" data-target="#subnav">
+<body class="contact-us" data-spy="scroll" data-target="#subnav">
 
 <!--[if IE 8]>     <body class="ie ie8 lte9 lte8"> <![endif]-->
 <!--[if IE 9]>     <body class="ie ie9 lte9"> <![endif]-->
@@ -65,7 +65,7 @@
 					<li class=""><a href="/testimonies.html">Photo Gallery &amp; Testimonies</a></li>
 				</ul>
 				<ul class="nav navbar-nav navbar-right">
-					<li class=""><a href="/contact-us.html">Contact Us</a></li>
+					<li class="active"><a href="/contact-us.html">Contact Us</a></li>
 				</ul>
 			</div>
 		</div>
@@ -74,22 +74,31 @@
 
 
 
-<h2>Welcome to Jekyll!</h2>
-<p class="meta">01 Aug 2014</p>
+<div class="container marketing">
+	<hr />
+	<div class="row featurette">
+		<div class="col-sm-7">
+			<div id="ajaxMap"></div>
+		</div>
+		<div class="col-sm-5">
+			<h2>303-467-0633</h2>
+			<h3>In Olde Town Arvada</h3>
+			<h3>5626 Olde Wadsworth Blvd.</h3>
+			<h3>Arvada, CO 80002</h3>
+		</div>
+	</div>
+	<hr />
 
-<div class="post">
-<p>You&#39;ll find this post in your <code>_posts</code> directory - edit this post and re-build (or run with the <code>-w</code> switch) to see your changes!
-To add new posts, simply add a file in the <code>_posts</code> directory that follows the convention: YYYY-MM-DD-name-of-post.ext.</p>
-
-<p>Jekyll also offers powerful support for code snippets:</p>
-
-<div class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">&quot;Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">&quot;</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">&#39;Tom&#39;</span><span class="p">)</span>
-<span class="c1">#=&gt; prints &#39;Hi, Tom&#39; to STDOUT.</span></code></pre></div>
-
-<p>Check out the <a href="http://jekyllrb.com">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/mojombo/jekyll">Jekyll&#39;s GitHub repo</a>.</p>
+	<footer>
+	<div class="row featurette">
+		<div class="col-xs-8">
+			<a href="/contact-us.html">5626 Olde Wadsworth Blvd. Arvada CO 80002</a>
+		</div>
+		<div class="col-xs-4">
+			<p class="pull-right"><a href="/contact-us.html">303-467-0633</a></p>
+		</div>
+	</div>
+</footer>
 
 </div>
 
@@ -102,6 +111,9 @@ To add new posts, simply add a file in the <code>_posts</code> directory that fo
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
 <script src="public/js/app.js"></script>
 
+
+<script src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+<script src="public/js/map.js"></script>
 
 
 

@@ -11,6 +11,9 @@ h4 {
   font-family: 'EB Garamond', serif;
   font-weight: 400;
 }
+a {
+  color: #624827;
+}
 .thankyou {
   text-align: center;
 }
@@ -20,7 +23,73 @@ h4 {
   margin-bottom: 80px;
 }
 .logo img {
+  height: 155px;
   max-width: 100%;
+  opacity: 1;
+}
+#subnav {
+  background-color: white;
+}
+#subnav.affix-top {
+  position: absolute;
+  margin-top: 80px;
+}
+#subnav.affix {
+  top: 100px;
+}
+#subnav h3 {
+  margin: 10px;
+}
+#subnav a {
+  padding: 5px 10px;
+}
+#subnav a:hover {
+  color: #0a192e;
+}
+#subnav li:first-child a {
+  padding: 0px;
+}
+#subnav .active a {
+  background-color: #0a192e;
+}
+#subnav .active a:hover {
+  color: white;
+  cursor: default;
+}
+/*		MARKETING CONTENT			--------------------------------------------------	*/
+.marketing .col-lg-4 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+.marketing .col-lg-4 p {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+.marketing hr {
+  margin: 60px 0;
+  border-color: #624827;
+}
+.marketing .spacer {
+  display: block;
+  height: 20px;
+  margin: 60px 0;
+}
+.marketing img {
+  border-radius: 10px;
+}
+.marketing h1,
+.marketing h2 {
+  line-height: 1;
+}
+.marketing h1::first-letter,
+.marketing h2::first-letter {
+  font-size: 48px;
+}
+.marketing h4 {
+  font-size: 16px;
+}
+.marketing p {
+  font-size: 16px;
 }
 /*		CUSTOMIZE THE NAVBAR		-------------------------------------------------	*/
 body .navbar-wrapper {
@@ -46,9 +115,11 @@ body .navbar-wrapper .navbar {
   border-top-right-radius: 0px;
   box-shadow: 0px 5px 7px #999;
 }
+body .navbar-wrapper .navbar a {
+  padding: 15px 10px;
+}
 body .navbar-wrapper .navbar a:hover {
   color: white;
-  font-weight: bold;
   text-shadow: 0px 0px 8px #624827;
 }
 body .navbar-wrapper .navbar .active a:hover {
@@ -56,30 +127,37 @@ body .navbar-wrapper .navbar .active a:hover {
   font-weight: normal;
   text-shadow: none;
 }
-body .navbar-wrapper .navbar .container {
-  width: auto;
+body .navbar-wrapper .navbar .dropdown a:hover {
+  cursor: pointer;
 }
-/*		CUSTOMIZE THE CAROUSEL		--------------------------------------------------	*/
-.carousel {
+body .navbar-wrapper .navbar .dropdown .dropdown-menu .active > a {
+  background-color: #0a192e;
+}
+/*		PAGE SPECIFIC				--------------------------------------------------	*/
+.home .logo img {
+  height: auto;
+  opacity: 0.05;
+}
+.home .carousel {
   height: 500px;
   margin-top: 20px;
   box-shadow: 0px 5px 8px #5a5a5a;
 }
-.carousel .carousel-caption {
+.home .carousel .carousel-caption {
   z-index: 10;
 }
-.carousel .item {
+.home .carousel .item {
   height: 500px;
   background-color: #777;
 }
-.carousel .item > img {
+.home .carousel .item > img {
   position: absolute;
   top: 0;
   left: 0;
   min-width: 100%;
   min-height: 500px;
 }
-.carousel .item h1 {
+.home .carousel .item h1 {
   padding: 10px;
   border-radius: 50px;
   background-color: rgba(10, 25, 46, 0.2);
@@ -87,35 +165,39 @@ body .navbar-wrapper .navbar .container {
   color: white;
   text-shadow: 0px 0px 5px #624827;
 }
-/*		MARKETING CONTENT			--------------------------------------------------	*/
-.marketing .col-lg-4 {
-  margin-bottom: 20px;
-  text-align: center;
-}
-.marketing .col-lg-4 p {
-  margin-right: 10px;
-  margin-left: 10px;
-}
-.marketing hr {
-  margin: 60px 0;
-  border-color: #624827;
-}
-.marketing img {
-  border-radius: 10px;
-}
-.marketing h2 {
-  line-height: 1;
-}
-.marketing h2::first-letter {
-  font-size: 48px;
-}
-.marketing h4 {
-  font-size: 16px;
-}
-.marketing p:first-of-type {
-  font-size: 16px;
+.contact-us #ajaxMap {
+  width: 100%;
+  min-height: 400px;
+  box-shadow: 0px 5px 7px #999;
 }
 /*		RESPONSIVE CSS				--------------------------------------------------	*/
+@media (max-width: 768px) {
+  .logo img {
+    height: 100px;
+  }
+  .carousel {
+    height: 150px;
+  }
+  .carousel .item {
+    height: 150px;
+  }
+  .carousel .item > img {
+    min-height: auto;
+  }
+}
+@media (max-width: 1023px) {
+  .navbar {
+    font-size: 10px;
+  }
+  .marketing p {
+    font-size: 14px;
+  }
+}
+@media (min-width: 1024px) {
+  .navbar {
+    font-size: 12px;
+  }
+}
 @media (min-width: 768px) {
   .navbar-wrapper .container {
     padding-right: 15px;
@@ -131,18 +213,25 @@ body .navbar-wrapper .navbar .container {
     font-size: 21px;
     line-height: 1.4;
   }
+  .marketing h1,
   .marketing h2 {
     font-size: 48px;
   }
+  .marketing h1::first-letter,
   .marketing h2::first-letter {
     font-size: 64px;
   }
 }
 @media (min-width: 1200px) {
+  .navbar {
+    font-size: 14px;
+  }
+  .marketing h1,
   .marketing h2 {
-    margin-top: 80px;
+    margin-top: 60px;
     font-size: 64px;
   }
+  .marketing h1::first-letter,
   .marketing h2::first-letter {
     font-size: 84px;
   }
