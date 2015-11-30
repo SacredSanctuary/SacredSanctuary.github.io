@@ -11,6 +11,9 @@
 <link rel="icon" href="public/img/favicon.ico">
 <link href='https://fonts.googleapis.com/css?family=EB+Garamond' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" />
+
+<link rel="stylesheet" href="public/css/fullcalendar.min.css" />
+
 <link rel="stylesheet" href="public/css/project.css" />
 
 <!--[if lt IE 9]>
@@ -30,6 +33,7 @@
 <!--[if IE 9]>     <body class="ie ie9 lte9"> <![endif]-->
 <!--[if gt IE 9]>  <body class="ie"><![endif]-->
 <!--[if !IE]><!--> <body class=" "> <!--<![endif]-->
+
 
 <div class="container logo">
 	<div class="row">
@@ -77,28 +81,26 @@
 <div class="container marketing">
 	<hr />
 	<div class="row featurette">
-		<div class="col-sm-7">
+		<div class="col-sm-10 col-sm-offset-1">
 
+			<script type="text/html" id="template">
+				<div data-content="author"></div>
+				<div data-content="date"></div>
+				<div data-content="post"></div>
+			</script>
 
-		</div>
-		<div class="col-sm-5">
-			<img class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="500x500" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MDAiIGhlaWdodD0iNTAwIj48cmVjdCB3aWR0aD0iNTAwIiBoZWlnaHQ9IjUwMCIgZmlsbD0iI2VlZSIvPjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjI1MCIgeT0iMjUwIiBzdHlsZT0iZmlsbDojYWFhO2ZvbnQtd2VpZ2h0OmJvbGQ7Zm9udC1zaXplOjMxcHg7Zm9udC1mYW1pbHk6QXJpYWwsSGVsdmV0aWNhLHNhbnMtc2VyaWY7ZG9taW5hbnQtYmFzZWxpbmU6Y2VudHJhbCI+NTAweDUwMDwvdGV4dD48L3N2Zz4=">
-		</div>
-	</div>
-	<hr />
-	<div class="row featurette">
-		<div class="col-sm-5">
-			<img class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="500x500" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MDAiIGhlaWdodD0iNTAwIj48cmVjdCB3aWR0aD0iNTAwIiBoZWlnaHQ9IjUwMCIgZmlsbD0iI2VlZSIvPjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjI1MCIgeT0iMjUwIiBzdHlsZT0iZmlsbDojYWFhO2ZvbnQtd2VpZ2h0OmJvbGQ7Zm9udC1zaXplOjMxcHg7Zm9udC1mYW1pbHk6QXJpYWwsSGVsdmV0aWNhLHNhbnMtc2VyaWY7ZG9taW5hbnQtYmFzZWxpbmU6Y2VudHJhbCI+NTAweDUwMDwvdGV4dD48L3N2Zz4=">
-		</div>
-		<div class="col-sm-7">
+			<div id="calendar">
+			<pre>
 
+			</pre>
+			</div>
 
 		</div>
 	</div>
 	<hr />
 
 	<footer>
-	<div class="row featurette">
+	<div class="row">
 		<div class="col-xs-8">
 			<a href="/contact-us.html">5626 Olde Wadsworth Blvd. Arvada CO 80002</a>
 		</div>
@@ -119,6 +121,13 @@
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
 <script src="public/js/app.js"></script>
 
+
+
+
+<script src="https://cdn.jsdelivr.net/jquery.loadtemplate/1.4.4/jquery.loadTemplate.min.js"></script>
+<script src="public/js/moment.min.js"></script>
+<script src="public/js/fullcalendar.min.js"></script>
+<script src="public/js/meetup.js"></script>
 
 
 

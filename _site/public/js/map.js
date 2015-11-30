@@ -25,7 +25,7 @@
 		}
 	];
 
-		ss.displayMap.initialize = function() {
+	ss.displayMap.initialize = function() {
 		ss.displayMap.map = new google.maps.Map( document.getElementById( 'ajaxMap' ), {
 			center: new google.maps.LatLng( ss.displayMap.locations[0].geocode.lat, ss.displayMap.locations[0].geocode.lng ),
 			zoom: 15,
