@@ -112,6 +112,9 @@ a {
 #calendar .classes > div span {
   display: block;
 }
+#calendar table * {
+  border-color: #0a192e;
+}
 #calendar pre,
 #calendar pre * {
   display: none;
