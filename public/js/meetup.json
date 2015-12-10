@@ -1,0 +1,48 @@
+{
+	"utc_offset": -25200000,
+	"venue": {
+		"country": "us",
+		"city": "Arvada",
+		"address_1": "5626 Olde Wadsworth Blvd.",
+		"name": "Sacred Sanctuary",
+		"lon": -105.081421,
+		"id": 18946082,
+		"state": "CO",
+		"lat": 39.799515,
+		"repinned": false
+	},
+	"rsvp_limit": 16,
+	"headcount": 0,
+	"visibility": "public_limited",
+	"waitlist_count": 0,
+	"created": 1428415981000,
+	"fee": {
+		"amount": 150,
+		"accepts": "cash",
+		"description": "per person",
+		"currency": "USD",
+		"label": "Price",
+		"required": "0"
+	},
+	"maybe_rsvp_count": 0,
+	"description": "asdf",
+	"event_url": "http://www.meetup.com/ilovepracticalspirituality/events/221676890/",
+	"yes_rsvp_count": 12,
+	"duration": 14400000,
+	"announced": true,
+	"name": "QABALAH IV - A Magical Tree of Life",
+	"id": "221676890",
+	"time": 1449435600000,
+	"updated": 1447882688000,
+	"group": {
+		"join_mode": "open",
+		"created": 1315346924000,
+		"name": "Sacred Sanctuary & Lani Renee",
+		"group_lon": -105.0999984741211,
+		"id": 2444682,
+		"urlname": "ilovepracticalspirituality",
+		"group_lat": 39.790000915527344,
+		"who": "Members"
+	},
+	"status": "upcoming"
+}

@@ -96,10 +96,48 @@ a {
   width: 100%;
   min-height: 200px;
 }
+#calendar h2 {
+  margin: 0px;
+}
+#calendar a:focus {
+  color: #fff;
+}
+#calendar .classes {
+  background-color: #624827;
+  border-color: #2b2011;
+}
+#calendar .classes > div {
+  white-space: normal;
+}
+#calendar .classes > div span {
+  display: block;
+}
 #calendar pre,
 #calendar pre * {
   display: none;
-  font-size: 6px;
+  font-size: 10px;
+}
+#classModal img {
+  max-width: 100%;
+}
+#classModal .modal-header h2 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+#classModal .modal-header h3,
+#classModal .modal-header h4 {
+  display: inline-block;
+  margin: 0px;
+}
+#classModal .modal-header h3 img,
+#classModal .modal-header h4 img {
+  margin: 0px 10px;
+}
+#classModal .modal-header h3 {
+  margin-bottom: 10px;
+}
+#classModal .modal-header .displayDate {
+  margin: 10px 0px;
 }
 .testimonies .featurette > div {
   text-align: center;
