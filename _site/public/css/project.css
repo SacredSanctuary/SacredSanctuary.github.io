@@ -94,7 +94,7 @@ a {
 /*		PAGE SPECIFIC CONTENT		--------------------------------------------------	*/
 #calendar {
   width: 100%;
-  min-height: 200px;
+  min-height: 400px;
 }
 #calendar h2 {
   margin: 0px;
@@ -103,8 +103,8 @@ a {
   color: #fff;
 }
 #calendar .classes {
-  background-color: #624827;
-  border-color: #2b2011;
+  background-color: #0a192e;
+  border-color: #1c4782;
 }
 #calendar .classes > div {
   white-space: normal;
@@ -113,7 +113,13 @@ a {
   display: block;
 }
 #calendar table * {
-  border-color: #0a192e;
+  border-color: #624827;
+}
+#calendar table .fc-day-grid-container {
+  min-height: 350px;
+}
+#calendar table thead th {
+  color: #624827;
 }
 #calendar pre,
 #calendar pre * {
@@ -243,13 +249,16 @@ body .navbar-wrapper .navbar .dropdown .dropdown-menu .active > a {
     height: 100px;
   }
   .carousel {
-    height: 150px;
+    height: 150px !important;
   }
   .carousel .item {
-    height: 150px;
+    height: 150px !important;
   }
   .carousel .item > img {
-    min-height: auto;
+    min-height: 150px !important;
+  }
+  .marketing hr {
+    margin: 30px 0;
   }
 }
 @media (max-width: 1023px) {

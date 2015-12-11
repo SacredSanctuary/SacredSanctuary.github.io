@@ -46,3 +46,50 @@
 	},
 	"status": "upcoming"
 }
+
+
+{
+	"created": 1444765999000,
+	"duration": 5400000,
+	"fee": {
+		"accepts": "cash",
+		"amount": 20,
+		"currency": "USD",
+		"description": "per person",
+		"label": "Price",
+		"required": false
+	},
+	"group": {
+		"created": 1315346924000,
+		"name": "Sacred Sanctuary & Lani Renee",
+		"id": 2444682,
+		"join_mode": "open",
+		"lat": 39.790000915527344,
+		"lon": -105.0999984741211,
+		"urlname": "ilovepracticalspirituality",
+		"who": "Alchemists"
+	},
+	"id": "226036758",
+	"link": "http://www.meetup.com/ilovepracticalspirituality/events/226036758/",
+	"name": "Sacred Ceremony for 2016's Life Wheel",
+	"rsvp_limit": 30,
+	"status": "upcoming",
+	"time": 1450231200000,
+	"updated": 1449239734000,
+	"utc_offset": -25200000,
+	"yes_rsvp_count": 24,
+	"waitlist_count": 0,
+	"venue": {
+		"id": 18946082,
+		"name": "Sacred Sanctuary",
+		"lat": 39.79951477050781,
+		"lon": -105.0814208984375,
+		"repinned": false,
+		"address_1": "5626 Olde Wadsworth Blvd.",
+		"city": "Arvada",
+		"country": "us",
+		"zip": "",
+		"state": "CO"
+	},
+	"visibility": "public_limited"
+}
