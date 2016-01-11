@@ -92,61 +92,140 @@ a {
   font-size: 16px;
 }
 /*		PAGE SPECIFIC CONTENT		--------------------------------------------------	*/
-#calendar {
+.home .logo img {
+  height: auto;
+  opacity: 0.05;
+}
+.home .carousel {
+  height: 500px;
+  margin-top: 20px;
+  box-shadow: 0px 5px 8px #5a5a5a;
+}
+.home .carousel .carousel-caption {
+  z-index: 10;
+}
+.home .carousel .item {
+  height: 500px;
+  background-color: #777;
+}
+.home .carousel .item > img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  min-height: 500px;
+}
+.home .carousel .item h1 {
+  padding: 10px;
+  border-radius: 50px;
+  background-color: rgba(10, 25, 46, 0.2);
+  font-size: 24px;
+  color: white;
+  text-shadow: 0px 0px 5px #624827;
+}
+.contact-us #ajaxMap {
+  width: 100%;
+  min-height: 400px;
+  box-shadow: 0px 5px 7px #999;
+}
+.calendar #calendar {
   width: 100%;
   min-height: 400px;
 }
-#calendar h2 {
+.calendar #calendar h2 {
   margin: 0px;
 }
-#calendar a:focus {
+.calendar #calendar a:focus {
   color: #fff;
 }
-#calendar .classes {
+.calendar #calendar .classes {
   background-color: #0a192e;
   border-color: #1c4782;
 }
-#calendar .classes > div {
+.calendar #calendar .classes.going {
+  background-color: #624827;
+}
+.calendar #calendar .classes > div {
   white-space: normal;
 }
-#calendar .classes > div span {
+.calendar #calendar .classes > div span {
   display: block;
 }
-#calendar table * {
+.calendar #calendar table * {
   border-color: #624827;
 }
-#calendar table .fc-day-grid-container {
+.calendar #calendar table .fc-day-grid-container {
   min-height: 350px;
 }
-#calendar table thead th {
+.calendar #calendar table thead th {
   color: #624827;
 }
-#calendar pre,
-#calendar pre * {
+.calendar #calendar pre,
+.calendar #calendar pre * {
   display: none;
   font-size: 10px;
 }
-#classModal img {
+.calendar #classModal img {
   max-width: 100%;
 }
-#classModal .modal-header h2 {
-  margin-top: 10px;
+.calendar #classModal .modal-header h2 {
+  margin-top: 0px;
   margin-bottom: 10px;
+  font-size: 48px !important;
 }
-#classModal .modal-header h3,
-#classModal .modal-header h4 {
-  display: inline-block;
-  margin: 0px;
+.calendar #classModal .modal-header h3,
+.calendar #classModal .modal-header h4 {
+  font-size: 22px;
 }
-#classModal .modal-header h3 img,
-#classModal .modal-header h4 img {
+.calendar #classModal .modal-header h3 img,
+.calendar #classModal .modal-header h4 img {
   margin: 0px 10px;
 }
-#classModal .modal-header h3 {
+.calendar #classModal .modal-header h3 a,
+.calendar #classModal .modal-header h4 a {
+  display: block;
+}
+.calendar #classModal .modal-header h3 a .glyphicon-check,
+.calendar #classModal .modal-header h4 a .glyphicon-check {
+  color: green;
+}
+.calendar #classModal .modal-header h3 {
+  margin-top: 0px;
   margin-bottom: 10px;
 }
-#classModal .modal-header .displayDate {
+.calendar #classModal .modal-header h4 {
+  display: inline-block;
+}
+.calendar #classModal .modal-header .displayDate {
   margin: 10px 0px;
+}
+.calendar #classModal .modal-header hr {
+  margin: 20px 0px;
+  border-color: #e5e5e5;
+}
+.calendar #classModal .modal-header a.btn {
+  margin-top: 15%;
+  font-size: 20px;
+  box-shadow: 0px 5px 7px #999;
+}
+.calendar #classModal .modal-header a.btn img {
+  height: 40px;
+}
+.calendar .rsvps > h3 {
+  text-align: center;
+}
+.calendar .rsvps #rsvp .login {
+  text-align: center;
+}
+.calendar .rsvps .thumbnail {
+  padding: 10px;
+  text-decoration: none;
+}
+.calendar .rsvps .thumbnail h4 {
+  margin-top: 0px;
+}
+.calendar .rsvps .thumbnail p {
+  font-size: 12px;
 }
 .testimonies .featurette > div {
   text-align: center;
@@ -205,43 +284,6 @@ body .navbar-wrapper .navbar .dropdown a:hover {
 }
 body .navbar-wrapper .navbar .dropdown .dropdown-menu .active > a {
   background-color: #0a192e;
-}
-/*		PAGE SPECIFIC				--------------------------------------------------	*/
-.home .logo img {
-  height: auto;
-  opacity: 0.05;
-}
-.home .carousel {
-  height: 500px;
-  margin-top: 20px;
-  box-shadow: 0px 5px 8px #5a5a5a;
-}
-.home .carousel .carousel-caption {
-  z-index: 10;
-}
-.home .carousel .item {
-  height: 500px;
-  background-color: #777;
-}
-.home .carousel .item > img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  min-width: 100%;
-  min-height: 500px;
-}
-.home .carousel .item h1 {
-  padding: 10px;
-  border-radius: 50px;
-  background-color: rgba(10, 25, 46, 0.2);
-  font-size: 24px;
-  color: white;
-  text-shadow: 0px 0px 5px #624827;
-}
-.contact-us #ajaxMap {
-  width: 100%;
-  min-height: 400px;
-  box-shadow: 0px 5px 7px #999;
 }
 /*		RESPONSIVE CSS				--------------------------------------------------	*/
 @media (max-width: 768px) {

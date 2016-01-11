@@ -107,66 +107,153 @@ a {
 
 /*		PAGE SPECIFIC CONTENT		--------------------------------------------------	*/
 
-#calendar {
-	width: 100%;
-	min-height: 400px;
-	h2 {
-		margin: 0px;
+.home {
+	.logo img {
+		height: auto;
+		opacity: 0.05;
 	}
-	a:focus {
-		color: #fff;
-	}
-	.classes {
-		background-color: @ss_blue;
-		border-color: lighten( @ss_blue, 20% );
-		> div {
-			white-space: normal;
-			span {
-				display: block;
+	.carousel {
+		height: 500px;
+		margin-top: 20px;
+		box-shadow: 0px 5px 8px @ss_grey;
+		.carousel-caption {
+			z-index: 10;
+		}
+		.item {
+			height: 500px;
+			background-color: #777;
+			> img {
+				position: absolute;
+				top: 0;
+				left: 0;
+				min-width: 100%;
+				min-height: 500px;
+			}
+			h1 {
+				padding: 10px;
+				border-radius: 50px;
+				background-color: rgba(10, 25, 46, 0.2);
+				font-size: 24px;
+				color: white;
+				text-shadow: 0px 0px 5px @ss_gold;
 			}
 		}
-	}
-	table {
-		* {
-			border-color: @ss_gold;
-		}
-		.fc-day-grid-container {
-			min-height: 350px;
-		}
-		thead th {
-			color: @ss_gold;
-		}
-	}
-// 	.fc-view-container {
-// 		border: 2px @ss_blue solid;
-// 	}
-	pre,
-	pre * {
-		display: none;
-		font-size: 10px;
 	}
 }
-#classModal {
-	img {
-		max-width: 100%;
+
+.contact-us {
+	#ajaxMap {
+		width: 100%;
+		min-height: 400px;
+		box-shadow: 0px 5px 7px #999;
 	}
-	.modal-header {
+}
+
+.calendar {
+	#calendar {
+		width: 100%;
+		min-height: 400px;
 		h2 {
-			margin-top: 10px;
-			margin-bottom: 10px;
-		}
-		h3, h4 {
-			display: inline-block;
 			margin: 0px;
-			img {
-				margin: 0px 10px;
+		}
+		a:focus {
+			color: #fff;
+		}
+		.classes {
+			background-color: @ss_blue;
+			border-color: lighten( @ss_blue, 20% );
+			&.going {
+				background-color: @ss_gold;
+			}
+			> div {
+				white-space: normal;
+				span {
+					display: block;
+				}
 			}
 		}
-		h3 {
-			margin-bottom: 10px;
+		table {
+			* {
+				border-color: @ss_gold;
+			}
+			.fc-day-grid-container {
+				min-height: 350px;
+			}
+			thead th {
+				color: @ss_gold;
+			}
 		}
-		.displayDate {
-			margin: 10px 0px;
+		pre,
+		pre * {
+			display: none;
+			font-size: 10px;
+		}
+	}
+	#classModal {
+		img {
+			max-width: 100%;
+		}
+		.modal-header {
+			h2 {
+				margin-top: 0px;
+				margin-bottom: 10px;
+				font-size: 48px !important;
+			}
+			h3, h4 {
+				font-size: 22px;
+				img {
+					margin: 0px 10px;
+				}
+				a {
+					display: block;
+					.glyphicon-check {
+						color: green;
+					}
+				}
+			}
+			h3 {
+				margin-top: 0px;
+				margin-bottom: 10px;
+			}
+			h4 {
+				display: inline-block;
+			}
+			.displayDate {
+				margin: 10px 0px;
+			}
+			hr {
+				margin: 20px 0px;
+				border-color: #e5e5e5;
+			}
+			a.btn {
+				margin-top: 15%;
+				font-size: 20px;
+				box-shadow: 0px 5px 7px #999;
+				img {
+					height: 40px;
+
+				}
+			}
+		}
+	}
+	.rsvps {
+		> h3 {
+			text-align: center;
+		}
+		#rsvp {
+			.login {
+				text-align: center;
+			}
+		}
+		.thumbnail {
+			padding: 10px;
+			text-decoration: none;
+			h4 {
+				margin-top: 0px;
+			}
+			p {
+				font-size: 12px;
+			}
 		}
 	}
 }
@@ -240,51 +327,6 @@ body {
 				}
 			}
 		}
-	}
-}
-
-
-/*		PAGE SPECIFIC				--------------------------------------------------	*/
-
-.home {
-	.logo img {
-		height: auto;
-		opacity: 0.05;
-	}
-	.carousel {
-		height: 500px;
-		margin-top: 20px;
-		box-shadow: 0px 5px 8px @ss_grey;
-		.carousel-caption {
-			z-index: 10;
-		}
-		.item {
-			height: 500px;
-			background-color: #777;
-			> img {
-				position: absolute;
-				top: 0;
-				left: 0;
-				min-width: 100%;
-				min-height: 500px;
-			}
-			h1 {
-				padding: 10px;
-				border-radius: 50px;
-				background-color: rgba(10, 25, 46, 0.2);
-				font-size: 24px;
-				color: white;
-				text-shadow: 0px 0px 5px @ss_gold;
-			}
-		}
-	}
-}
-
-.contact-us {
-	#ajaxMap {
-		width: 100%;
-		min-height: 400px;
-		box-shadow: 0px 5px 7px #999;
 	}
 }
 

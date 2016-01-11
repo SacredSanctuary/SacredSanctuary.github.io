@@ -10,7 +10,12 @@
 <title>Event Calendar - Sacred Sanctuary</title>
 <link rel="icon" href="public/img/favicon.ico">
 <link href='https://fonts.googleapis.com/css?family=EB+Garamond' rel='stylesheet' type='text/css'>
-<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" />
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+
+
+
 
 <link rel="stylesheet" href="public/css/fullcalendar.min.css" />
 
@@ -63,7 +68,7 @@
 					<li class=""><a href="/about-us.html">About Us</a></li>
 					<li class=""><a href="/boutique.html">Boutique</a></li>
 					<li class=""><a href="/lani-renee.html">Lani Renee</a></li>
-					<li class=""><a href="/teachings.html">Mystery School Teachings</a></li>
+					<li class=""><a href="/teachings.html">Universal Mystery School</a></li>
 					<li class=""><a href="/pathworking.html">Pathwork</a></li>
 					<li class="active"><a href="/calendar.html">Event Calendar</a></li>
 					<li class=""><a href="/testimonies.html">Photo Gallery &amp; Testimonies</a></li>
@@ -81,24 +86,36 @@
 <div class="container marketing">
 	<hr />
 	<div class="row featurette">
-		<div class="col-sm-10 col-sm-offset-1">
+		<div class="col-sm-9">
 			<div id="calendar"></div>
 		</div>
-<!--
-		<div class="col-sm-3">
+		<div class="col-sm-3 rsvps">
+			<h3>
+				<span>Your RSVPs</span>
+				<img src="/public/img/meetup.svg" alt="Meetup Logo" />
+			</h3>
 			<div id="rsvp">
-				<pre>
-
-				</pre>
+				<div class="login">
+					<button type="button" value="login" class="btn btn-danger">Log in to Meetup</button>
+					<p>
+					to see your RSVPs
+					</p>
+				</div>
 			</div>
 		</div>
- -->
 	</div>
 	<hr />
 
-	<script type="text/html" id="rsvpTemplate"></>
-		<h4 data-content="classTitle"></h4>
 
+	<script type="text/html" id="rsvpTemplate"></>
+		<div data-id="classId">
+			<div class="thumbnail">
+				<h4 data-content="classTitle"></h4>
+				<p data-content="classDate">
+
+				</p>
+			</div>
+		</div>
 	</script>
 
 	<script type="text/html" id="classTemplate"></>
@@ -107,30 +124,27 @@
 
 			<h2 class="modal-title" id="classModalLabel" data-content="classTitle">Class title</h2>
 
-			<div class="row">
-				<div class="col-md-7">
-					<h3 data-content="classDate"></h3>
-				</div>
-				<div class="col-md-5">
-					<h3>
-						<a href="#" target="meetup" data-href="classLink">
-						RSVP on meetup<img src="/public/img/meetup.svg" alt="Meetup Logo" />
-						</a>
-					</h3>
-				</div>
-			</div>
+			<hr />
 
 			<div class="row">
-				<div class="col-md-7">
+				<div class="col-md-6">
+					<h3 data-content="classDate"></h3>
+
+					<h3 data-content="classFee"></h3>
+
 					<h4 data-content="classRSVP"></h4>
-					<h4> / </h4>
 					<h4 data-content="classRSVPMax"></h4>
 					<h4> People have RSVP'd</h4>
 				</div>
-				<div class="col-md-5">
-					<h4 data-content="classFee"></h4>
+				<div class="col-md-3 col-sm-offset-1">
+					<a href="#" target="_self" data-href="classLink" class="btn btn-default btn-block">
+						<strong class="text-danger" data-content="classRSVPyou">RSVP</strong>
+						<br />
+						<img src="/public/img/meetup.svg" alt="Meetup Logo" />
+					</a>
 				</div>
 			</div>
+
 		</div>
 		<div class="modal-body" data-content="classDescription">
 			<em>No details, yet</em>
