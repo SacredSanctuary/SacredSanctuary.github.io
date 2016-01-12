@@ -488,6 +488,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/public\/img\/testimonials\/hope.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36550,
+		"inputAbbreviatedPath": "\/_site\/public\/img\/testimonials\/hope.jpg",
+		"outputAbbreviatedPath": "\/_site\/public\/img\/testimonials\/hope.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/public\/img\/testimonials\/william.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31545,
+		"inputAbbreviatedPath": "\/_site\/public\/img\/testimonials\/william.jpg",
+		"outputAbbreviatedPath": "\/_site\/public\/img\/testimonials\/william.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/public\/js\/app.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -1979,6 +2001,28 @@
 		"initialSize": 148348,
 		"inputAbbreviatedPath": "\/public\/img\/statue.jpg",
 		"outputAbbreviatedPath": "\/public\/img\/statue.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/img\/testimonials\/hope.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36550,
+		"inputAbbreviatedPath": "\/public\/img\/testimonials\/hope.jpg",
+		"outputAbbreviatedPath": "\/public\/img\/testimonials\/hope.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/img\/testimonials\/william.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31545,
+		"inputAbbreviatedPath": "\/public\/img\/testimonials\/william.jpg",
+		"outputAbbreviatedPath": "\/public\/img\/testimonials\/william.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

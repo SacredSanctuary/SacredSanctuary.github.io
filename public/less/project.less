@@ -265,15 +265,22 @@ a {
 			margin: 20px 0px;
 		}
 		p {
-			span {
+			&:before,
+			&:after {
 				font-size: 36px;
 				line-height: 24px;
 				vertical-align: middle;
 			}
+			&:before {
+				content: "“";
+			}
+			&:after {
+				content: "”";
+			}
 		}
 		img {
 			border-radius: 50%;
-			width: 50%;
+			width: 75%;
 			margin: auto;
 		}
 	}

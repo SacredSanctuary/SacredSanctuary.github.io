@@ -233,14 +233,21 @@ a {
 .testimonies .featurette > div .small {
   margin: 20px 0px;
 }
-.testimonies .featurette > div p span {
+.testimonies .featurette > div p:before,
+.testimonies .featurette > div p:after {
   font-size: 36px;
   line-height: 24px;
   vertical-align: middle;
 }
+.testimonies .featurette > div p:before {
+  content: "“";
+}
+.testimonies .featurette > div p:after {
+  content: "”";
+}
 .testimonies .featurette > div img {
   border-radius: 50%;
-  width: 50%;
+  width: 75%;
   margin: auto;
 }
 /*		CUSTOMIZE THE NAVBAR		-------------------------------------------------	*/
