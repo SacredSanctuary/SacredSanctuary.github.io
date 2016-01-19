@@ -250,6 +250,20 @@ a {
   width: 75%;
   margin: auto;
 }
+.pathworking h2 {
+  text-align: center;
+}
+.pathworking h2 small {
+  display: block;
+}
+.pathworking ul,
+.pathworking li {
+  margin: 0px;
+  padding: 0px;
+}
+.pathworking li {
+  margin-left: 10px;
+}
 /*		CUSTOMIZE THE NAVBAR		-------------------------------------------------	*/
 body .navbar-wrapper {
   top: 0;

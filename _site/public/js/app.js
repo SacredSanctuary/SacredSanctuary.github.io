@@ -10,7 +10,7 @@
 			}, 1000);
 		}
 	});
-	
+
 	this.homeAnim = function () {
 		$( 'body.home .logo img' ).animate({
 			opacity: 1.0,
@@ -23,5 +23,7 @@
 			});
 		});
 	};
+
+	$( '[ data-toggle="popover" ]' ).popover();
 })();
 
