@@ -11,7 +11,7 @@ page: pathworking
 			<h1>The Sacred Paths of the Universal Mystery School</h1>
 		</div>
 	</div>
-	<div class="row featurette">
+	<div class="row featurette doors">
 		<div class="col-sm-4">
 			<h2>Alchemy <small>Adept Level</small></h2>
 			<a href="{{ site.baseurl }}path-alchemy.html" data-toggle="popover" data-trigger="hover" data-container="body" data-placement="top" data-html="true" title="Alchemy" data-content="<ul><li>2 day class</li><li>4 times per year</li><li>Prerequisites: none</li></ul>">
@@ -26,12 +26,27 @@ page: pathworking
 		</div>
 		<div class="col-sm-4">
 			<h2>Guide <small>Advanced Level</small></h2>
-			<a href="{{ site.baseurl }}path-guide.html" data-toggle="popover" data-trigger="hover" data-container="body" data-placement="top" data-html="true" title="Guide" data-content="<ul><li>3 day class</li><li>Once per year</li><li>Prerequisites: Healer</li></ul>">
+			<a href="#" id="guideDoor" data-toggle="popover" data-trigger="hover" data-container="body" data-placement="top" data-html="true" title="Guide" data-content="<ul><li>3 day class</li><li>Once per year</li><li>Prerequisites: Healer</li></ul>">
 				<img class="featurette-image img-responsive" alt="Guide" src="/public/img/door-3.png">
 			</a>
 		</div>
 	</div>
 	<hr />
+
+
+<div class="modal fade" id="appointmentModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+	<div class="modal-dialog modal-sm" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+				<h3 class="modal-title" id="myModalLabel">Guide <small>Advanced Level</small></h3>
+			</div>
+			<div class="modal-body">
+				If you're interested in guideship, please text Lani Renee at 303.913.3395 to make an appointment.
+			</div>
+		</div>
+	</div>
+</div>
 
 	{% include foot.html %}
 </div>

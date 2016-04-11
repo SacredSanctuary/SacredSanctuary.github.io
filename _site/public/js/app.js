@@ -2,12 +2,18 @@
 	$( '.carousel a' ).on( 'click', function() {
 		$( this ).blur();
 	});
-	$( window ).load(function() {
-		if ( $( 'body' ).hasClass('home') ) {
-			$('.carousel').carousel('pause');
+	$( window ).load( function() {
+		if ( $( 'body' ).hasClass( 'home' ) ) {
+			$( '.carousel' ).carousel( 'pause' );
 			setTimeout( function() {
 				this.homeAnim();
 			}, 1000);
+		} else if ( $( 'body' ).hasClass( 'pathworking' ) ) {
+			$( '.diagram .center' ).on( 'mouseover', function () {
+				$( '.diagram .glyphicon' ).addClass( 'infinite' );
+			}).on( 'mouseout', function () {
+				$( '.diagram .glyphicon' ).removeClass( 'infinite' );
+			} );
 		}
 	});
 
@@ -23,6 +29,13 @@
 			});
 		});
 	};
+
+	$( '#guideDoor' ).on( 'click', function( e ) {
+		e.preventDefault();
+// 		console.log ('wtf');
+		$( '#appointmentModal' ).modal( 'show' );
+
+	});
 
 	$( '[ data-toggle="popover" ]' ).popover();
 })();

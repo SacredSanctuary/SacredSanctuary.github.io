@@ -10,6 +10,7 @@ h4 {
   color: #0a192e;
   font-family: 'EB Garamond', serif;
   font-weight: 400;
+  margin-bottom: 30px;
 }
 a {
   color: #624827;
@@ -250,19 +251,89 @@ a {
   width: 75%;
   margin: auto;
 }
-.pathworking h2 {
+.pathworking .doors h2 {
   text-align: center;
+  color: #624827;
 }
-.pathworking h2 small {
+.pathworking .doors h2 small {
   display: block;
+  margin-top: 10px;
+}
+.pathworking .doors img {
+  margin: auto;
 }
 .pathworking ul,
 .pathworking li {
   margin: 0px;
   padding: 0px;
 }
-.pathworking li {
+.pathworking .popover li {
   margin-left: 10px;
+}
+.pathworking .featurette li {
+  margin-left: 20px;
+}
+.pathworking .diagram h3,
+.pathworking .diagram h4 {
+  margin: 0px;
+  text-align: center;
+  cursor: default;
+}
+.pathworking .diagram h3 span,
+.pathworking .diagram h4 span,
+.pathworking .diagram h3 small,
+.pathworking .diagram h4 small {
+  display: block;
+}
+.pathworking .diagram h3 {
+  margin-bottom: 10px;
+  font-weight: bold;
+  font-family: 'Jim Nightshade', cursive;
+  font-size: 28px;
+  color: #624827;
+  text-shadow: 2px 2px 2px #777777, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
+}
+.pathworking .diagram h4 {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #5a5a5a;
+}
+.pathworking .diagram svg {
+  position: absolute;
+  left: 0px;
+  width: 100%;
+  max-height: 150px;
+  z-index: -1;
+  top: -30px;
+}
+.pathworking .diagram svg * {
+  fill: #FFF;
+  stroke: #ecdfcf;
+  stroke-width: 2;
+}
+.pathworking .diagram svg.wheel rect {
+  fill: none;
+}
+.pathworking .diagram svg.tree {
+  top: -50px;
+  max-height: 200px;
+}
+.pathworking .diagram .row {
+  display: flex;
+  align-items: center;
+}
+.pathworking .diagram .glyphicon {
+  margin: 10px auto;
+  color: #ab7e44;
+  font-size: 18px;
+  text-align: center;
+}
+.lani {
+  background-image: url('../img/map-back.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
 }
 /*		CUSTOMIZE THE NAVBAR		-------------------------------------------------	*/
 body .navbar-wrapper {
