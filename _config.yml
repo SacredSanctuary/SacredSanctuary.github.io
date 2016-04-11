@@ -1,5 +1,4 @@
 name: Sacred Sanctuary
-markdown: redcarpet
 
 exclude:    ['*.less']
 baseurl:    /
