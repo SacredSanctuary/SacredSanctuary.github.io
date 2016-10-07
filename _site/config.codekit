@@ -304,6 +304,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/public\/img\/cord-cutting.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 241863,
+		"inputAbbreviatedPath": "\/_site\/public\/img\/cord-cutting.jpg",
+		"outputAbbreviatedPath": "\/_site\/public\/img\/cord-cutting.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/public\/img\/crystals-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -359,6 +370,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/public\/img\/dna-activation.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 239724,
+		"inputAbbreviatedPath": "\/_site\/public\/img\/dna-activation.jpg",
+		"outputAbbreviatedPath": "\/_site\/public\/img\/dna-activation.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/public\/img\/door-1.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -392,6 +414,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/public\/img\/energy-healing.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 219748,
+		"inputAbbreviatedPath": "\/_site\/public\/img\/energy-healing.jpg",
+		"outputAbbreviatedPath": "\/_site\/public\/img\/energy-healing.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/public\/img\/etheric-surgery.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 204167,
+		"inputAbbreviatedPath": "\/_site\/public\/img\/etheric-surgery.jpg",
+		"outputAbbreviatedPath": "\/_site\/public\/img\/etheric-surgery.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/public\/img\/front-logo.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -410,6 +454,17 @@
 		"initialSize": 140831,
 		"inputAbbreviatedPath": "\/_site\/public\/img\/glass-logo.jpg",
 		"outputAbbreviatedPath": "\/_site\/public\/img\/glass-logo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/public\/img\/house-clearing.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 217769,
+		"inputAbbreviatedPath": "\/_site\/public\/img\/house-clearing.jpg",
+		"outputAbbreviatedPath": "\/_site\/public\/img\/house-clearing.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -469,6 +524,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/public\/img\/lani-about.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 391381,
+		"inputAbbreviatedPath": "\/_site\/public\/img\/lani-about.jpg",
+		"outputAbbreviatedPath": "\/_site\/public\/img\/lani-about.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/public\/img\/lani-magic.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -491,13 +557,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/public\/img\/Lani.jpg": {
+	"\/_site\/public\/img\/life-wheel.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 409643,
-		"inputAbbreviatedPath": "\/_site\/public\/img\/Lani.jpg",
-		"outputAbbreviatedPath": "\/_site\/public\/img\/Lani.jpg",
+		"initialSize": 204921,
+		"inputAbbreviatedPath": "\/_site\/public\/img\/life-wheel.jpg",
+		"outputAbbreviatedPath": "\/_site\/public\/img\/life-wheel.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -579,24 +645,24 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/public\/img\/slide2.jpg": {
+	"\/_site\/public\/img\/slide2a.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 467893,
-		"inputAbbreviatedPath": "\/_site\/public\/img\/slide2.jpg",
-		"outputAbbreviatedPath": "\/_site\/public\/img\/slide2.jpg",
+		"inputAbbreviatedPath": "\/_site\/public\/img\/slide2a.jpg",
+		"outputAbbreviatedPath": "\/_site\/public\/img\/slide2a.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/public\/img\/slide3.jpg": {
+	"\/_site\/public\/img\/slide3a.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 453734,
-		"inputAbbreviatedPath": "\/_site\/public\/img\/slide3.jpg",
-		"outputAbbreviatedPath": "\/_site\/public\/img\/slide3.jpg",
+		"inputAbbreviatedPath": "\/_site\/public\/img\/slide3a.jpg",
+		"outputAbbreviatedPath": "\/_site\/public\/img\/slide3a.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -652,6 +718,17 @@
 		"initialSize": 182912,
 		"inputAbbreviatedPath": "\/_site\/public\/img\/statue.jpg",
 		"outputAbbreviatedPath": "\/_site\/public\/img\/statue.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/public\/img\/tarot-reading.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 297753,
+		"inputAbbreviatedPath": "\/_site\/public\/img\/tarot-reading.jpg",
+		"outputAbbreviatedPath": "\/_site\/public\/img\/tarot-reading.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2011,6 +2088,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/img\/cord-cutting.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 241863,
+		"inputAbbreviatedPath": "\/public\/img\/cord-cutting.jpg",
+		"outputAbbreviatedPath": "\/public\/img\/cord-cutting.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/img\/crystals-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2066,6 +2154,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/img\/dna-activation.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 239724,
+		"inputAbbreviatedPath": "\/public\/img\/dna-activation.jpg",
+		"outputAbbreviatedPath": "\/public\/img\/dna-activation.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/img\/door-1.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -2099,6 +2198,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/img\/energy-healing.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 219748,
+		"inputAbbreviatedPath": "\/public\/img\/energy-healing.jpg",
+		"outputAbbreviatedPath": "\/public\/img\/energy-healing.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/img\/etheric-surgery.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 204167,
+		"inputAbbreviatedPath": "\/public\/img\/etheric-surgery.jpg",
+		"outputAbbreviatedPath": "\/public\/img\/etheric-surgery.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/img\/front-logo.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2117,6 +2238,17 @@
 		"initialSize": 144517,
 		"inputAbbreviatedPath": "\/public\/img\/glass-logo.jpg",
 		"outputAbbreviatedPath": "\/public\/img\/glass-logo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/img\/house-clearing.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 217769,
+		"inputAbbreviatedPath": "\/public\/img\/house-clearing.jpg",
+		"outputAbbreviatedPath": "\/public\/img\/house-clearing.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2176,6 +2308,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/img\/lani-about.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 409643,
+		"inputAbbreviatedPath": "\/public\/img\/lani-about.jpg",
+		"outputAbbreviatedPath": "\/public\/img\/lani-about.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/img\/lani-magic.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2198,13 +2341,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/public\/img\/Lani.jpg": {
+	"\/public\/img\/life-wheel.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 409643,
-		"inputAbbreviatedPath": "\/public\/img\/Lani.jpg",
-		"outputAbbreviatedPath": "\/public\/img\/Lani.jpg",
+		"initialSize": 204921,
+		"inputAbbreviatedPath": "\/public\/img\/life-wheel.jpg",
+		"outputAbbreviatedPath": "\/public\/img\/life-wheel.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2286,24 +2429,24 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/public\/img\/slide2.jpg": {
+	"\/public\/img\/slide2a.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 485005,
-		"inputAbbreviatedPath": "\/public\/img\/slide2.jpg",
-		"outputAbbreviatedPath": "\/public\/img\/slide2.jpg",
+		"inputAbbreviatedPath": "\/public\/img\/slide2a.jpg",
+		"outputAbbreviatedPath": "\/public\/img\/slide2a.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/public\/img\/slide3.jpg": {
+	"\/public\/img\/slide3a.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 253675,
-		"inputAbbreviatedPath": "\/public\/img\/slide3.jpg",
-		"outputAbbreviatedPath": "\/public\/img\/slide3.jpg",
+		"inputAbbreviatedPath": "\/public\/img\/slide3a.jpg",
+		"outputAbbreviatedPath": "\/public\/img\/slide3a.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2359,6 +2502,17 @@
 		"initialSize": 148348,
 		"inputAbbreviatedPath": "\/public\/img\/statue.jpg",
 		"outputAbbreviatedPath": "\/public\/img\/statue.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/img\/tarot-reading.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 297753,
+		"inputAbbreviatedPath": "\/public\/img\/tarot-reading.jpg",
+		"outputAbbreviatedPath": "\/public\/img\/tarot-reading.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

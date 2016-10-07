@@ -13,14 +13,14 @@
 		{
 			'name': 'Sacred Sanctuary - A Spiritual Center in Olde Town Arvada',
 			'address': {
-				'street': '5626 Olde Wadsworth Blvd.',
+				'street': '7505 Grandview Ave',
 				'city': 'Arvada',
 				'state': 'C0',
 				'postal': '80002'
 			},
 			'geocode': {
-				'lat': 39.799694,
-				'lng': -105.081447
+				'lat': 39.7993985,
+				'lng': -105.0806048
 			}
 		}
 	];
