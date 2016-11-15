@@ -304,6 +304,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/public\/img\/channeling.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12608,
+		"inputAbbreviatedPath": "\/_site\/public\/img\/channeling.jpg",
+		"outputAbbreviatedPath": "\/_site\/public\/img\/channeling.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/public\/img\/cord-cutting.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -341,7 +352,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 255258,
+		"initialSize": 239743,
 		"inputAbbreviatedPath": "\/_site\/public\/img\/darshana.jpg",
 		"outputAbbreviatedPath": "\/_site\/public\/img\/darshana.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -374,7 +385,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 239724,
+		"initialSize": 351284,
 		"inputAbbreviatedPath": "\/_site\/public\/img\/dna-activation.jpg",
 		"outputAbbreviatedPath": "\/_site\/public\/img\/dna-activation.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -418,9 +429,20 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 219748,
+		"initialSize": 298034,
 		"inputAbbreviatedPath": "\/_site\/public\/img\/energy-healing.jpg",
 		"outputAbbreviatedPath": "\/_site\/public\/img\/energy-healing.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/public\/img\/energy-healing2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 261903,
+		"inputAbbreviatedPath": "\/_site\/public\/img\/energy-healing2.jpg",
+		"outputAbbreviatedPath": "\/_site\/public\/img\/energy-healing2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -458,13 +480,90 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/public\/img\/healers1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 216480,
+		"inputAbbreviatedPath": "\/_site\/public\/img\/healers1.jpg",
+		"outputAbbreviatedPath": "\/_site\/public\/img\/healers1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/public\/img\/healers2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 171227,
+		"inputAbbreviatedPath": "\/_site\/public\/img\/healers2.jpg",
+		"outputAbbreviatedPath": "\/_site\/public\/img\/healers2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/public\/img\/high-priestess1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 398205,
+		"inputAbbreviatedPath": "\/_site\/public\/img\/high-priestess1.jpg",
+		"outputAbbreviatedPath": "\/_site\/public\/img\/high-priestess1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/public\/img\/high-priestess2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 197696,
+		"inputAbbreviatedPath": "\/_site\/public\/img\/high-priestess2.jpg",
+		"outputAbbreviatedPath": "\/_site\/public\/img\/high-priestess2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/public\/img\/high-priestess3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 184579,
+		"inputAbbreviatedPath": "\/_site\/public\/img\/high-priestess3.jpg",
+		"outputAbbreviatedPath": "\/_site\/public\/img\/high-priestess3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/public\/img\/high-priestess4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 234110,
+		"inputAbbreviatedPath": "\/_site\/public\/img\/high-priestess4.jpg",
+		"outputAbbreviatedPath": "\/_site\/public\/img\/high-priestess4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/public\/img\/house-clearing.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 217769,
+		"initialSize": 198330,
 		"inputAbbreviatedPath": "\/_site\/public\/img\/house-clearing.jpg",
 		"outputAbbreviatedPath": "\/_site\/public\/img\/house-clearing.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/public\/img\/invitation.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 245997,
+		"inputAbbreviatedPath": "\/_site\/public\/img\/invitation.jpg",
+		"outputAbbreviatedPath": "\/_site\/public\/img\/invitation.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -623,6 +722,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/public\/img\/ritual-mastery2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 319242,
+		"inputAbbreviatedPath": "\/_site\/public\/img\/ritual-mastery2.jpg",
+		"outputAbbreviatedPath": "\/_site\/public\/img\/ritual-mastery2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/public\/img\/sacred-logo.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -645,6 +755,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/public\/img\/shamanism.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 757475,
+		"inputAbbreviatedPath": "\/_site\/public\/img\/shamanism.jpg",
+		"outputAbbreviatedPath": "\/_site\/public\/img\/shamanism.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/public\/img\/slide1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -652,6 +773,17 @@
 		"initialSize": 374707,
 		"inputAbbreviatedPath": "\/_site\/public\/img\/slide1.jpg",
 		"outputAbbreviatedPath": "\/_site\/public\/img\/slide1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/public\/img\/slide2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 638817,
+		"inputAbbreviatedPath": "\/_site\/public\/img\/slide2.jpg",
+		"outputAbbreviatedPath": "\/_site\/public\/img\/slide2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -682,7 +814,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 580649,
+		"initialSize": 497670,
 		"inputAbbreviatedPath": "\/_site\/public\/img\/slide4.jpg",
 		"outputAbbreviatedPath": "\/_site\/public\/img\/slide4.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -707,6 +839,17 @@
 		"initialSize": 270700,
 		"inputAbbreviatedPath": "\/_site\/public\/img\/slide6.jpg",
 		"outputAbbreviatedPath": "\/_site\/public\/img\/slide6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/public\/img\/slide7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 431448,
+		"inputAbbreviatedPath": "\/_site\/public\/img\/slide7.jpg",
+		"outputAbbreviatedPath": "\/_site\/public\/img\/slide7.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -737,7 +880,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 297753,
+		"initialSize": 453197,
 		"inputAbbreviatedPath": "\/_site\/public\/img\/tarot-reading.jpg",
 		"outputAbbreviatedPath": "\/_site\/public\/img\/tarot-reading.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -2110,6 +2253,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/img\/channeling.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12608,
+		"inputAbbreviatedPath": "\/public\/img\/channeling.jpg",
+		"outputAbbreviatedPath": "\/public\/img\/channeling.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/img\/cord-cutting.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2231,6 +2385,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/img\/energy-healing2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 261903,
+		"inputAbbreviatedPath": "\/public\/img\/energy-healing2.jpg",
+		"outputAbbreviatedPath": "\/public\/img\/energy-healing2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/img\/etheric-surgery.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2264,6 +2429,72 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/img\/healers1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 216480,
+		"inputAbbreviatedPath": "\/public\/img\/healers1.jpg",
+		"outputAbbreviatedPath": "\/public\/img\/healers1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/img\/healers2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 171227,
+		"inputAbbreviatedPath": "\/public\/img\/healers2.jpg",
+		"outputAbbreviatedPath": "\/public\/img\/healers2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/img\/high-priestess1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 216632,
+		"inputAbbreviatedPath": "\/public\/img\/high-priestess1.jpg",
+		"outputAbbreviatedPath": "\/public\/img\/high-priestess1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/img\/high-priestess2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 197696,
+		"inputAbbreviatedPath": "\/public\/img\/high-priestess2.jpg",
+		"outputAbbreviatedPath": "\/public\/img\/high-priestess2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/img\/high-priestess3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 184579,
+		"inputAbbreviatedPath": "\/public\/img\/high-priestess3.jpg",
+		"outputAbbreviatedPath": "\/public\/img\/high-priestess3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/img\/high-priestess4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 234110,
+		"inputAbbreviatedPath": "\/public\/img\/high-priestess4.jpg",
+		"outputAbbreviatedPath": "\/public\/img\/high-priestess4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/img\/house-clearing.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2271,6 +2502,17 @@
 		"initialSize": 217769,
 		"inputAbbreviatedPath": "\/public\/img\/house-clearing.jpg",
 		"outputAbbreviatedPath": "\/public\/img\/house-clearing.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/img\/invitation.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 245997,
+		"inputAbbreviatedPath": "\/public\/img\/invitation.jpg",
+		"outputAbbreviatedPath": "\/public\/img\/invitation.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2429,6 +2671,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/img\/ritual-mastery2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 319242,
+		"inputAbbreviatedPath": "\/public\/img\/ritual-mastery2.jpg",
+		"outputAbbreviatedPath": "\/public\/img\/ritual-mastery2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/img\/sacred-logo.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -2451,6 +2704,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/img\/shamanism.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 757475,
+		"inputAbbreviatedPath": "\/public\/img\/shamanism.jpg",
+		"outputAbbreviatedPath": "\/public\/img\/shamanism.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/img\/slide1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2458,6 +2722,17 @@
 		"initialSize": 295492,
 		"inputAbbreviatedPath": "\/public\/img\/slide1.jpg",
 		"outputAbbreviatedPath": "\/public\/img\/slide1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/img\/slide2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 485005,
+		"inputAbbreviatedPath": "\/public\/img\/slide2.jpg",
+		"outputAbbreviatedPath": "\/public\/img\/slide2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2513,6 +2788,17 @@
 		"initialSize": 240473,
 		"inputAbbreviatedPath": "\/public\/img\/slide6.jpg",
 		"outputAbbreviatedPath": "\/public\/img\/slide6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/img\/slide7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 431448,
+		"inputAbbreviatedPath": "\/public\/img\/slide7.jpg",
+		"outputAbbreviatedPath": "\/public\/img\/slide7.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

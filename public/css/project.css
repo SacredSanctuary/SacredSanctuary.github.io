@@ -280,6 +280,9 @@ a {
 .pathworking .featurette li {
   margin-left: 20px;
 }
+.pathworking .featurette img {
+  margin-bottom: 10px;
+}
 .pathworking .diagram h3,
 .pathworking .diagram h4 {
   margin: 0px;
@@ -445,7 +448,6 @@ body .navbar-wrapper .navbar .dropdown .dropdown-menu .active > a {
   }
   .marketing h1,
   .marketing h2 {
-    margin-top: 60px;
     font-size: 64px;
   }
   .marketing h1::first-letter,
