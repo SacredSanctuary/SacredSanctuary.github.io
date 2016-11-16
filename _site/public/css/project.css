@@ -328,6 +328,12 @@ a {
   top: -50px;
   max-height: 200px;
 }
+.pathworking .diagram svg.enocian path {
+  fill: #ecdfcf;
+}
+.pathworking .diagram svg.north {
+  top: -60px;
+}
 .pathworking .diagram .row {
   display: flex;
   align-items: center;

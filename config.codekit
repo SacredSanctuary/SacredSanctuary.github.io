@@ -535,6 +535,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/public\/img\/high-priestess3a.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 176680,
+		"inputAbbreviatedPath": "\/_site\/public\/img\/high-priestess3a.jpg",
+		"outputAbbreviatedPath": "\/_site\/public\/img\/high-priestess3a.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/public\/img\/high-priestess4.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -729,6 +740,17 @@
 		"initialSize": 319242,
 		"inputAbbreviatedPath": "\/_site\/public\/img\/ritual-mastery2.jpg",
 		"outputAbbreviatedPath": "\/_site\/public\/img\/ritual-mastery2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/public\/img\/ritual-mastery3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 223002,
+		"inputAbbreviatedPath": "\/_site\/public\/img\/ritual-mastery3.jpg",
+		"outputAbbreviatedPath": "\/_site\/public\/img\/ritual-mastery3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2484,6 +2506,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/img\/high-priestess3a.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 176680,
+		"inputAbbreviatedPath": "\/public\/img\/high-priestess3a.jpg",
+		"outputAbbreviatedPath": "\/public\/img\/high-priestess3a.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/img\/high-priestess4.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2678,6 +2711,17 @@
 		"initialSize": 319242,
 		"inputAbbreviatedPath": "\/public\/img\/ritual-mastery2.jpg",
 		"outputAbbreviatedPath": "\/public\/img\/ritual-mastery2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/img\/ritual-mastery3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 223002,
+		"inputAbbreviatedPath": "\/public\/img\/ritual-mastery3.jpg",
+		"outputAbbreviatedPath": "\/public\/img\/ritual-mastery3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
