@@ -227,6 +227,50 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/public\/img\/alchemist.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 161787,
+		"inputAbbreviatedPath": "\/_site\/public\/img\/alchemist.jpg",
+		"outputAbbreviatedPath": "\/_site\/public\/img\/alchemist.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/public\/img\/alchemy-altar.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 249321,
+		"inputAbbreviatedPath": "\/_site\/public\/img\/alchemy-altar.jpg",
+		"outputAbbreviatedPath": "\/_site\/public\/img\/alchemy-altar.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/public\/img\/alchemy-candle.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 361925,
+		"inputAbbreviatedPath": "\/_site\/public\/img\/alchemy-candle.jpg",
+		"outputAbbreviatedPath": "\/_site\/public\/img\/alchemy-candle.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/public\/img\/alchemy-picture.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 235259,
+		"inputAbbreviatedPath": "\/_site\/public\/img\/alchemy-picture.jpg",
+		"outputAbbreviatedPath": "\/_site\/public\/img\/alchemy-picture.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/public\/img\/alchemy.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -278,6 +322,17 @@
 		"initialSize": 221756,
 		"inputAbbreviatedPath": "\/_site\/public\/img\/boutique.jpg",
 		"outputAbbreviatedPath": "\/_site\/public\/img\/boutique.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/public\/img\/called.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 196521,
+		"inputAbbreviatedPath": "\/_site\/public\/img\/called.jpg",
+		"outputAbbreviatedPath": "\/_site\/public\/img\/called.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -572,7 +627,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 245997,
+		"initialSize": 289252,
 		"inputAbbreviatedPath": "\/_site\/public\/img\/invitation.jpg",
 		"outputAbbreviatedPath": "\/_site\/public\/img\/invitation.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -682,7 +737,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 404275,
+		"initialSize": 290611,
 		"inputAbbreviatedPath": "\/_site\/public\/img\/magic.jpg",
 		"outputAbbreviatedPath": "\/_site\/public\/img\/magic.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -711,13 +766,35 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/public\/img\/mysteryschool.jpg": {
+	"\/_site\/public\/img\/mysteryschool2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 244148,
-		"inputAbbreviatedPath": "\/_site\/public\/img\/mysteryschool.jpg",
-		"outputAbbreviatedPath": "\/_site\/public\/img\/mysteryschool.jpg",
+		"initialSize": 434952,
+		"inputAbbreviatedPath": "\/_site\/public\/img\/mysteryschool2.jpg",
+		"outputAbbreviatedPath": "\/_site\/public\/img\/mysteryschool2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/public\/img\/qabalah.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 294650,
+		"inputAbbreviatedPath": "\/_site\/public\/img\/qabalah.jpg",
+		"outputAbbreviatedPath": "\/_site\/public\/img\/qabalah.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/public\/img\/qabalah2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 135334,
+		"inputAbbreviatedPath": "\/_site\/public\/img\/qabalah2.jpg",
+		"outputAbbreviatedPath": "\/_site\/public\/img\/qabalah2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -773,6 +850,17 @@
 		"initialSize": 189625,
 		"inputAbbreviatedPath": "\/_site\/public\/img\/sarah.jpg",
 		"outputAbbreviatedPath": "\/_site\/public\/img\/sarah.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/public\/img\/shamanism-tools.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 328396,
+		"inputAbbreviatedPath": "\/_site\/public\/img\/shamanism-tools.jpg",
+		"outputAbbreviatedPath": "\/_site\/public\/img\/shamanism-tools.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -960,6 +1048,28 @@
 		"initialSize": 211098,
 		"inputAbbreviatedPath": "\/_site\/public\/img\/versailles.jpg",
 		"outputAbbreviatedPath": "\/_site\/public\/img\/versailles.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/public\/img\/whatisalchemy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 236050,
+		"inputAbbreviatedPath": "\/_site\/public\/img\/whatisalchemy.jpg",
+		"outputAbbreviatedPath": "\/_site\/public\/img\/whatisalchemy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/public\/img\/whiteboard.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31358,
+		"inputAbbreviatedPath": "\/_site\/public\/img\/whiteboard.jpg",
+		"outputAbbreviatedPath": "\/_site\/public\/img\/whiteboard.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2198,6 +2308,50 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/public\/img\/alchemist.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 161787,
+		"inputAbbreviatedPath": "\/public\/img\/alchemist.jpg",
+		"outputAbbreviatedPath": "\/public\/img\/alchemist.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/img\/alchemy-altar.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 249321,
+		"inputAbbreviatedPath": "\/public\/img\/alchemy-altar.jpg",
+		"outputAbbreviatedPath": "\/public\/img\/alchemy-altar.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/img\/alchemy-candle.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 375394,
+		"inputAbbreviatedPath": "\/public\/img\/alchemy-candle.jpg",
+		"outputAbbreviatedPath": "\/public\/img\/alchemy-candle.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/img\/alchemy-picture.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 235259,
+		"inputAbbreviatedPath": "\/public\/img\/alchemy-picture.jpg",
+		"outputAbbreviatedPath": "\/public\/img\/alchemy-picture.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/img\/alchemy.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2249,6 +2403,17 @@
 		"initialSize": 221756,
 		"inputAbbreviatedPath": "\/public\/img\/boutique.jpg",
 		"outputAbbreviatedPath": "\/public\/img\/boutique.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/img\/called.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 196521,
+		"inputAbbreviatedPath": "\/public\/img\/called.jpg",
+		"outputAbbreviatedPath": "\/public\/img\/called.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2543,7 +2708,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 245997,
+		"initialSize": 302548,
 		"inputAbbreviatedPath": "\/public\/img\/invitation.jpg",
 		"outputAbbreviatedPath": "\/public\/img\/invitation.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -2682,13 +2847,35 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/public\/img\/mysteryschool.jpg": {
+	"\/public\/img\/mysteryschool2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 223836,
-		"inputAbbreviatedPath": "\/public\/img\/mysteryschool.jpg",
-		"outputAbbreviatedPath": "\/public\/img\/mysteryschool.jpg",
+		"initialSize": 434952,
+		"inputAbbreviatedPath": "\/public\/img\/mysteryschool2.jpg",
+		"outputAbbreviatedPath": "\/public\/img\/mysteryschool2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/img\/qabalah.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 305912,
+		"inputAbbreviatedPath": "\/public\/img\/qabalah.jpg",
+		"outputAbbreviatedPath": "\/public\/img\/qabalah.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/img\/qabalah2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 140728,
+		"inputAbbreviatedPath": "\/public\/img\/qabalah2.jpg",
+		"outputAbbreviatedPath": "\/public\/img\/qabalah2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2744,6 +2931,17 @@
 		"initialSize": 196456,
 		"inputAbbreviatedPath": "\/public\/img\/sarah.jpg",
 		"outputAbbreviatedPath": "\/public\/img\/sarah.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/img\/shamanism-tools.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 343053,
+		"inputAbbreviatedPath": "\/public\/img\/shamanism-tools.jpg",
+		"outputAbbreviatedPath": "\/public\/img\/shamanism-tools.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2931,6 +3129,28 @@
 		"initialSize": 218236,
 		"inputAbbreviatedPath": "\/public\/img\/versailles.jpg",
 		"outputAbbreviatedPath": "\/public\/img\/versailles.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/img\/whatisalchemy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 223836,
+		"inputAbbreviatedPath": "\/public\/img\/whatisalchemy.jpg",
+		"outputAbbreviatedPath": "\/public\/img\/whatisalchemy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/img\/whiteboard.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31358,
+		"inputAbbreviatedPath": "\/public\/img\/whiteboard.jpg",
+		"outputAbbreviatedPath": "\/public\/img\/whiteboard.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
